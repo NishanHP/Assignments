@@ -1,5 +1,5 @@
 def AreaDisk(r: Int):Double = {
-    return r*r*3.14;
+    return r*r*Math.PI;
 }
 
 def ConvertTemp(temp: Double): Double = {
